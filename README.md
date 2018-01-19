@@ -12,23 +12,23 @@
 
 ## User is allowed to
 
-* Create/Submit a t-shirt design,
+* ### Create/Submit a t-shirt design,
 
-* Pre-order the pending winner
+* ### Pre-order the pending winner
 
-* Buy last months winner.  
+* ### Buy last months winner.  
 
-* Upvote current month submissions
+* ### Upvote current month submissions
 
-* Choose the charity their profits go to.  
+* ### Choose the charity their profits go to.  
 
 ## Additional techs considered
 
-* Integration of a secure payment method ie: Paypal
+* ### Integration of a secure payment method ie: Paypal
 
-* Integration of upload-able images
+* ### Integration of upload-able images
 
-* Integration of some type of design  software for the t shirts
+* ### Integration of some type of design  software for the t shirts
 
 
 
