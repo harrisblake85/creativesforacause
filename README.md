@@ -1,2 +1,35 @@
-# creativesforacause
-Creatives For A Cause  creatives submit a shirt design for a cause  most voted (shirt) of the month goes into *production  homepage shows most upvoted shirt design, at the end of the month the most upvoted shirt goes into production  user is allowed to =>  create/submit a t-shirt design, pre-order the pending winner, buy production version of last months winner.  And upvote current month submissions to choose the shirt that goes into production  When you preorder or buy a production winner,  => you choose the charity your profits go to.  Has a gallery of submissions sortable by votes and purchases  *probably wouldnt actually go into production/ allow people to buy unless interest was built [8:37 AM] The idea is a little rough right now but I really think I could pull it off [8:40 AM] Additional techs used would be integration of a secure payment method ie: paypal, integration of upload-able images integration of some type of design [8:40 AM] software for the t shirts
+# Creatives For A Cause  
+
+* ### Creatives submit a shirt design for a cause  
+
+* ### Most voted (shirt) of the month goes into production
+
+* ### Homepage shows most upvoted shirt design
+
+* ### Has a gallery of submissions sortable by votes and purchases  
+
+* ### At the end of the month the most upvoted shirt goes into production
+
+## User is allowed to
+
+* Create/Submit a t-shirt design,
+
+* Pre-order the pending winner
+
+* Buy last months winner.  
+
+* Upvote current month submissions
+
+* Choose the charity their profits go to.  
+
+## Additional techs considered
+
+* Integration of a secure payment method ie: Paypal
+
+* Integration of upload-able images
+
+* Integration of some type of design  software for the t shirts
+
+
+
+### Note: Probably wouldn't actually go into production/ allow people to buy unless interest was built
