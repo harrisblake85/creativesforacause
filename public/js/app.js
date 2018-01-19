@@ -8,21 +8,22 @@ this.getSubmissions = () => {
 
   $http({
     method:"GET",
-    url: this.url
+    url: this.url+"/submissions"
   })
   .then((response) => {
     console.log(response.data);
     this.submissions = response.data;
-    console.log("Retrieved Submission");
+    console.log("Retrieved Submissions");
   })
   .catch((err) => {
     console.log(err);
     console.log("error getting submissions");
   })
-// getSubmissions
+// End getSubmissions
 };
+//
 
-// this.getSubmissions();
+this.getSubmissions();
 
 
 
