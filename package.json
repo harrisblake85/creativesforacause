@@ -1,0 +1,23 @@
+{
+  "name": "creativesforacause",
+  "version": "1.0.0",
+  "description": "* ### Creatives submit a shirt design for a cause",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrisblake85/creativesforacause.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harrisblake85/creativesforacause/issues"
+  },
+  "homepage": "https://github.com/harrisblake85/creativesforacause#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
